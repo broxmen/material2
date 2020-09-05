@@ -63,7 +63,7 @@
     "karma-jasmine": "^0.3.8",
     "karma-sauce-launcher": "^0.2.14",
     "madge": "^0.5.3",
-    "node-sass": "^3.4.2",
+    "node-sass": "^4.14.1",
     "protractor": "^3.3.0",
     "protractor-accessibility-plugin": "0.1.1",
     "sass": "^0.5.0",
